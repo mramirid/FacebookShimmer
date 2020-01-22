@@ -1,4 +1,4 @@
-# FacebookShimmer
+# Facebook Shimmer
 
 Content placeholder animation like Facebook
 
