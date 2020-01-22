@@ -1,6 +1,6 @@
 # Facebook Shimmer
 
-Content placeholder animation like Facebook
+Content placeholder animation like Facebook & Gojek
 
 <img src="https://media.giphy.com/media/mFwAojbEIUES62FM8B/giphy.gif" />
 
